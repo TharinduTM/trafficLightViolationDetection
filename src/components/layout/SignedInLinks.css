@@ -1,0 +1,10 @@
+.navigatorHover:hover{
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 1048px) {
+    .navSize{
+        font-size: "100px";
+    }
+}
+

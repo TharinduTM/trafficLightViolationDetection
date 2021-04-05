@@ -1,0 +1,32 @@
+.cardPageIcon:hover{
+    /* box-shadow: 1px 1px 5px 1px #dddddd; */
+    color: #3f51b5 !important;
+    cursor: pointer;
+    width: 44px !important;
+}
+
+.cardPageIcon{
+    width: 42px !important;
+    height: 42px !important;
+}
+
+.imageICon:hover{
+    /* box-shadow: 1px 1px 5px 1px #dddddd; */
+    cursor: pointer;
+    width: 42px !important;
+    height: 40px !important;
+}
+
+.imageICon{
+    width: 40px !important;
+    height: 40px !important;
+}
+
+.closeIconModel:hover{
+    cursor: pointer;
+    font-size: 32px;
+}
+
+.closeIconModel{
+    font-size: 30px;
+}
